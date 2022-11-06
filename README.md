@@ -15,6 +15,8 @@ Basic Client and Server
 --Basic Level End 2 End Encryption -Default--> Caesar Cipher[+3]
 
 
+
+
 #Server
 
 --It has primitive log system --> Connected IP-PORT-USERNAME and Disconnected IP

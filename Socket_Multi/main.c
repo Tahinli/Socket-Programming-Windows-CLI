@@ -14,8 +14,8 @@
 #pragma comment(lib, "Ws_32.lib")
 
 #define BUFLEN 512
-#define PORT 27015
-#define ADDRESS "93.190.8.248"
+#define PORT YOUR PORT(INT)
+#define ADDRESS "YOUR-SERVER-IP"(STRING)
 #define MAX_CLIENTS 5
 
 
@@ -47,7 +47,7 @@ int mte(char*);
 	char lastName[20];
 	char arName[MAX_CLIENTS][20];
 	char dName[MAX_CLIENTS*5][20];
-	char pass[]="mandalina";
+	char pass[]="superstrongpass";
 	char gpass[20];
 	int arPas[MAX_CLIENTS];
 

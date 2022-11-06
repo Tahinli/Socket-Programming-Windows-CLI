@@ -10,9 +10,9 @@ Basic Client and Server
 #Client
 
 
---It uses 2 threads send-receive
+-- 2 threads send-receive
 
---Basic Level End 2 End Encryption -Default--> Caesar Cipher[+3]
+-- Basic Level End 2 End Encryption -Default--> Caesar Cipher[+3]
 
 
 
@@ -20,13 +20,13 @@ Basic Client and Server
 
 #Server
 
---It has primitive log system --> Connected IP-PORT-USERNAME and Disconnected IP
+-- Primitive log system --> Connected IP-PORT-USERNAME and Disconnected IP
 
 
---Low Level Security with Password Protection
+-- Low Level Security with Password Protection
 
 
---Some commands which are /leave, /quit
+-- Some commands which are /leave, /quit
 
 Client and Server are designed to use together because of their specializations. Be aware of this situation, when you want use with others.
 

@@ -22,3 +22,12 @@ Basic Client and Server
 
 
 --Some commands which are /leave, /quit
+
+
+----------BEFORE USING DON'T FORGET TO EDIT IP ADDRESS, PORT in BOTH SİDES-----------
+
+
+
+Most of Parts of Project is Based on "Michael Grieco" on Youtube /c/MichaelGrieco
+
+Thanks to Him I learnt many things.

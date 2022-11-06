@@ -17,6 +17,7 @@ Basic Client and Server
 
 
 
+
 #Server
 
 --It has primitive log system --> Connected IP-PORT-USERNAME and Disconnected IP
@@ -34,6 +35,6 @@ Client and Server are designed to use together because of their specializations.
 
 
 
-Most of Parts of Project is Based on "Michael Grieco" on Youtube /c/MichaelGrieco
+Most of Parts of This Project is Based on "Michael Grieco" on Youtube /c/MichaelGrieco
 
 Thanks to Him I learnt many things.

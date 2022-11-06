@@ -10,7 +10,7 @@ Basic Client and Server
 #Client
 
 
---Use 2 threads send-receive
+--It uses 2 threads send-receive
 
 --Basic Level End 2 End Encryption -Default--> Caesar Cipher[+3]
 

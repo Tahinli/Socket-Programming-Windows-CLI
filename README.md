@@ -23,7 +23,7 @@ Basic Client and Server
 
 --Some commands which are /leave, /quit
 
-Client and Server is designed to use together because of their spetializations. Be aware of this situation, when you want use with others.
+Client and Server are designed to use together because of their spetializations. Be aware of this situation, when you want use with others.
 
 
 ----------BEFORE USING DON'T FORGET TO EDIT IP ADDRESS, PORT in BOTH SİDES-----------
